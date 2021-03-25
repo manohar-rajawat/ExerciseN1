@@ -1,0 +1,16 @@
+{
+  "name": "projectn1",
+  "version": "1.0.0",
+  "description": "project on nodejs and heroku with mongodb as database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Manohar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.15"
+  }
+}
